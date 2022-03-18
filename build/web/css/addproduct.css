@@ -1,0 +1,48 @@
+/* 
+    Created on : Mar 18, 2022, 9:09:15 PM
+    Author     : Hoang Quang
+*/
+.content{
+    width: 350px;
+    height: 475px;
+    border: 1px solid  #e6eef3;
+    border-radius: 20px;
+    background-color: #e6eef3;
+    margin-top: 100px;
+    margin-left: 400px;
+    
+}
+.content p{
+    text-align: center;
+    color: #6ba2c2;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.content input{
+    width: 180px;
+    height: 20px;
+    margin-bottom: 5px; 
+    border-radius: 5px;
+    border: 2px solid #6ba2c2;
+    padding-left: 5px; 
+}
+.content form{
+    margin-left:80px; 
+}
+button{
+    background-color: #c2e5fa;
+    width: 160px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    color: #0e527c;
+    font-family: sans-serif;
+    margin-top: 10px; 
+    margin-left: 16px;
+}
+button:hover{
+    font-size: 14px;
+    color: #024874;
+    font-family: sans-serif;
+    text-align: center;
+}

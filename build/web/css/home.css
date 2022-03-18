@@ -1,0 +1,50 @@
+/* 
+    Created on : Mar 18, 2022, 4:20:40 PM
+    Author     : Hoang Quang
+*/
+*{
+    margin: 0px;
+}
+.header{
+    width: 100%;
+    height: 50px;
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #207286;
+    background-color: #9be3f5;
+    padding-left: 15px;
+    padding-top: 15px;
+    
+}
+nav a{
+    margin-top: 25px;
+    margin-left: 5px;
+    color: #519aca;
+    background-color: #125b8b;
+    border-radius: 3px;
+    padding: 10px;
+}
+nav table{
+    float: left;
+    margin-top: 50px;
+    border-radius: 5px;
+    width: 240px;
+    height: 225px;
+    background-color: #9be3f5;
+    margin-left: 5px
+}
+.article table{
+    width: 400px;
+    background-color: #f5bb8c;
+    display: left;
+    text-align: center;
+    float: left;
+    margin-top: 100px; 
+    margin-left: 400px;
+}
+.article table tr th{
+    color: blue;
+}
+.article table tr td{
+    color: yellow;
+}
